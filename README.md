@@ -1,4 +1,4 @@
-A very simple mortgage repayment calculator. Please do not base any serious financial decdions upon its output, but it will provide a reasonably accurate overview of how long remains until when the mortgage will be paid, and by changing annual interest
+A very simple mortgage repayment calculator. Please do not base any serious financial decisions upon its output, but it will provide a reasonably accurate overview of how long remains until when the mortgage will be paid, and by changing annual interest
  etc, will allow you to estimate how long to pay, based on those changes. 
 
 It also provides an amortization table to give you an idea of how much of the money is going toward interest and principal (assuming you have that type of mortgage). This will not work for mortgages that are interest only payments It is also based on the 
